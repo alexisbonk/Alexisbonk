@@ -3,24 +3,23 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+----
 
-### Portfolio: https://brdhanani.github.io
+### Hello! I'm Alexis Knob a Full Stack Developer from France.
 
-<a href="https://twitter.com/dhanani_brijesh">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+### Portfolio: https://bonko.fr/
+
+<a href="https://www.linkedin.com/in/%F0%9F%92%BB-alexis-knob-654931199/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://stackoverflow.com/users/14242339/alexis-knob">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://open.spotify.com/user/alexisbonk">
+    <img src="https://img.shields.io/badge/spotify-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://youtu.be/X_zgw9GojSc">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.instagram.com/alexisbonk/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br />
@@ -38,14 +37,14 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Ruby](https://img.shields.io/badge/-Ruby-gray?style=flat&logo=ruby&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Rails](https://img.shields.io/badge/-Rails-blue?style=flat&logo=ruby-on-rails&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
@@ -54,19 +53,24 @@
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+[![JestJS](https://img.shields.io/badge/-JestJS-black?style=flat&logo=jest&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![PHP](https://img.shields.io/badge/-PHP-gray?style=flat&logo=php&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
+<br/>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisbonk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Alexisbonk's Github Stats">
+</p>
+<br/>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
+------
 
------
+Credits: [Alexisbonk](https://github.com/alexisbonk)
 
-Credits: [BRdhanani](https://github.com/brdhanani)
-
-Last Edited on: 29/03/2021
+Last Edited on: 14/02/2022
