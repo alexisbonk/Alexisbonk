@@ -56,18 +56,16 @@
 [![PHP](https://img.shields.io/badge/-PHP-gray?style=flat&logo=php&link=https://github.com/alexisbonk)](https://gitlab.com/alexisbonk) 
 
 <br/>
-<br />
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisbonk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Alexisbonk's Github Stats">
-</p>
 <br/>
 
 ----
 
+<br/>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+<br/>
 
 ------
 
