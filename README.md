@@ -30,8 +30,6 @@
 
 - 🏡 I’m currently learning **to build an automated home & farm using Alexa and some Arduinos**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
 - 📝 I regularly write codes on [Turbocube](https://github.com/Turbocube) or [Bonk-Wills](https://github.com/Bonk-Wills)
 
 - 💬 Ask me about **Arduino/Rapberry Pi or React/React-native**
@@ -107,12 +105,14 @@
 </p>
 
 
-<!--profile visit count-->
+<!--profile visit count
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=alexisbonk&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
+-->
+<br></br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
