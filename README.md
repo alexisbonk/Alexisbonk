@@ -1,74 +1,123 @@
-### Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-----
 
-<br />
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hello! I'm Alexis Knob a Full Stack Developer from France.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Alexis</h1></summary>
+  </ul>
+</div>
 
-### Portfolio: https://bonko.fr/
 
-<a href="https://www.linkedin.com/in/%F0%9F%92%BB-alexis-knob-654931199/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/14242339/alexis-knob">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://open.spotify.com/user/alexisbonk">
-    <img src="https://img.shields.io/badge/spotify-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/alexisbonk/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<br />
-<br />
-<br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **React, React Native, Nodejs, C++**
+
+- 🏡 I’m currently learning **to build an automated home & farm using Alexa and some Arduinos**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write codes on [Turbocube](https://github.com/Turbocube) or [Bonk-Wills](https://github.com/Bonk-Wills)
+
+- 💬 Ask me about **Arduino/Rapberry Pi or React/React-native**
+
+- 📫 Feel free to reach me out **alexis@bonko.fr**
   
-### 👨‍💻 Languages and Tools
+<!--Intro end-->
 
-<br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Ruby](https://img.shields.io/badge/-Ruby-gray?style=flat&logo=ruby&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Rails](https://img.shields.io/badge/-Rails-blue?style=flat&logo=ruby-on-rails&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/alexisbonk)](https://github.com/alexisbonk)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/alexisbonk)](https://github.com/alexisbonk)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/alexisbonk)](https://gitlab.com/alexisbonk) 
-
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/alexisbonk)](https://github.com/alexisbonk)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/alexisbonk)](https://github.com/alexisbonk) 
-[![JestJS](https://img.shields.io/badge/-JestJS-black?style=flat&logo=jest&link=https://github.com/alexisbonk)](https://github.com/alexisbonk)
-[![PHP](https://img.shields.io/badge/-PHP-gray?style=flat&logo=php&link=https://github.com/alexisbonk)](https://gitlab.com/alexisbonk) 
-
-<br/>
-<br/>
-
-----
-
-<br/>
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alexisbonk&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexisbonk&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexisbonk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=alexisbonk&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,babel,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,arduino,raspberrypi&perline=14" />
+  </a>
 </p>
-<br/>
 
-------
 
-Credits: [Alexisbonk](https://github.com/alexisbonk)
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
 
-Last Edited on: 29/08/2022
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/%F0%9F%92%BB-alexis-knob-654931199/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
+<a href="https://www.instagram.com/alexisbonk/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>  
+<a href="https://discord.com/users/237182021338791937" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=alexisbonk&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [alexisbonk](https://github.com/alexisbonk)
+
+Last Edited on: 22/09/2023
