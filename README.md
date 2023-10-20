@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Nodejs, C++**
+- 🔭 I’m working on **React, React Native, Nodejs, C++**
 
 - 🏡 I’m currently learning **to build an automated home & farm using Alexa and some Arduinos**
 
